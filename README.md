@@ -99,5 +99,6 @@ This project demonstrates:
 
 ## Author
 **Swara Berde** 
-Computer Science Student|Data Science|Python|Data analysis 
+Computer Science Student | Data Science | Python | Data analysis 
+
 
