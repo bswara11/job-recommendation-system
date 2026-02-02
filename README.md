@@ -88,6 +88,18 @@ This project demonstrates:
 
 ---
 
+## 📸 Application Screenshots
+
+# Home & Resume Upload
+![Home Screen](screenshots/ui_home.png)
+
+# Job Recommendations with Explainability
+![Recommendations](screenshots/ui_recommendations.png)
+
+# Filters (Location & Work Type)
+![Filters](screenshots/ui_filters.png)
+
+
 ## Future Improvements
 - Skill ontology–based matching
 - Experience-level estimation
