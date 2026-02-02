@@ -61,22 +61,6 @@ This project addresses both sides by:
 
 ---
 
-## Project Structure
-job-recommendation-system/
-├── data/
-│ ├── jobs.csv
-│ └── sample_resume.pdf
-├── notebooks/
-│ └── job_recommendation.ipynb
-├── src/
-│ ├── preprocessing.py
-│ ├── resume_parser.py
-│ ├── recommender.py
-│ ├── ranking.py
-│ └── classifiers.py
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 ## Why This Project Matters
 This project demonstrates:
@@ -94,10 +78,8 @@ This project demonstrates:
 ![Home Screen](screenshots/ui_home.png)
 
 # Job Recommendations with Explainability
-![Recommendations](screenshots/ui_recommendations.png)
+![Recommendations](screenshots/ui_recommend.png)
 
-# Filters (Location & Work Type)
-![Filters](screenshots/ui_filters.png)
 
 
 ## Future Improvements
@@ -111,6 +93,9 @@ This project demonstrates:
 
 ## Author
 **Swara Berde** 
-Computer Science Student | Data Science | Python | Data analysis 
+ Aspiring Data Science Student | Python | Data analysis | Data Science
+
+
+
 
 
