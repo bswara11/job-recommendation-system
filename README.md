@@ -63,7 +63,7 @@ This project addresses both sides by:
 
 ## Project Structure
 job-recommendation-system/
-├── data/
+-**├── data/**
 │ ├── jobs.csv
 │ └── sample_resume.pdf
 ├── notebooks/
@@ -112,5 +112,6 @@ This project demonstrates:
 ## Author
 **Swara Berde** 
 Computer Science Student | Data Science | Python | Data analysis 
+
 
 
